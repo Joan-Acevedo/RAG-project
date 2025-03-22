@@ -41,7 +41,7 @@ source .venv/bin/activate
 .venv\Scripts\python.exe -m pip install -r requirements.txt
 ```
 
-## Descripción del proyecto 📖
+## Descripción del proyecto
 
 Este proyecto está diseñado para trabajar con modelos de lenguaje a gran escala y aprovecha herramientas como [LangChain](https://python.langchain.com/docs/get_started/introduction), [Pinecone](https://www.pinecone.io/) y [OpenAI](https://openai.com/) para resolver los siguientes retos:
 
@@ -69,14 +69,14 @@ Creación de un RAG utilizando Pinecone como base de datos vectorial para almace
 python pineconerag.py
 ```
 
-## Tecnologías utilizadas 🛠️
+## Tecnologías utilizadas
 
 - [Python](https://www.python.org/) - Lenguaje de programación principal.
 - [LangChain](https://python.langchain.com/docs/get_started/introduction) - Biblioteca de Python para gestionar modelos de lenguaje.
 - [Pinecone](https://www.pinecone.io/) - Plataforma para indexación y búsqueda de vectores.
 - [OpenAI](https://openai.com/) - Proveedor de modelos de inteligencia artificial.
 
-## Autor ✒️
+## Autor
 
 **Joan Acevedo**
 
